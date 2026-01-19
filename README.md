@@ -24,7 +24,7 @@ I am currently developing two major projects: **PhishingNet**, an awareness plat
 ### Professional Experience
 
 **Digital Project Manager | Municipality of Bellenaves (03)**
-* Developed and launched a custom website from scratch for the town's senior residence: [hameau-amitie-bellenaves.fr](https://hameau-amitie-bellenaves.fr/).
+* Developed and launched a custom website using WordPress at the request of my internship supervisor to ensure the local staff could maintain the platform independently for the town's senior residence: [hameau-amitie-bellenaves.fr](https://hameau-amitie-bellenaves.fr/).
 * Produced a promotional video showcasing the commune through professional aerial drone cinematography.
 * Led the digitization initiative for the senior residence to modernize its operations and administrative services.
 * Managed the digital transformation strategy and coordinated with local stakeholders to ensure a secure and user-friendly digital presence.
