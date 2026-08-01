@@ -1,4 +1,4 @@
-# Nice to meet you, I am Capucine !
+# Nice to meet you, I am Capucine!
 
 ### 4th Year Epitech Student | Cybersecurity Consulting & Awareness
 ### Digital Project Manager | Founder of Bourbon'Elle | Software Developer
@@ -6,18 +6,6 @@
 I am a 21-year-old developer in my fourth year at Epitech, specializing in Cybersecurity with a focus on human-centric security. My work is driven by the desire to create technology that protects, educates, and empowers users.
 
 I am currently developing two major projects: **PhishingNet**, an awareness platform for cyber threats, and **Eurydice**, an organization app designed for individuals with concentration challenges.
-
----
-
-### Current Projects
-
-**Eurydice**
-* Objective: A daily organization tool specifically designed for people with concentration difficulties or ADHD.
-* Focus: Simplifying task management and improving daily productivity through an intuitive, low-distraction interface.
-
-**PhishingNet**
-* URL: [https://www.phishingnet.fr/](https://www.phishingnet.fr/)
-* Objective: An educational platform dedicated to teaching users about modern cyber attacks and social engineering through simplified, accessible content.
 
 ---
 
