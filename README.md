@@ -57,6 +57,6 @@ I am currently developing two major projects: **PhishingNet**, an awareness plat
 ### Contact & Networking
 
 * LinkedIn: [Linkedin](https://linkedin.com/in/capucine-lorenzi-b43b71232/)
-* Projects: [phishingnet.fr](https://www.phishingnet.fr/) | Bourbon'elle (website in development)
+* Projects: Bourbon'elle (website in development)
 * Email: capucine.lorenzi@epitech.eu | lorenzi.capucine@gmail.com
 * Bourbon'Elle Email: bourbonelle03@gmail.com
