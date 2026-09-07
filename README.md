@@ -3,9 +3,9 @@
 ### 5th Year Epitech Student | Cybersecurity Consulting & Awareness
 ### Digital Project Manager | Founder of Bourbon'Elle | Software Developer
 
-I am a 21-year-old developer in my fourth year at Epitech, specializing in Cybersecurity with a focus on human-centric security. My work is driven by the desire to create technology that protects, educates, and empowers users.
+I am a 21-year-old developer in my fifth year at Epitech, specializing in Cybersecurity with a focus on human-centric security. My work is driven by the desire to create technology that protects, educates, and empowers users.
 
-I am currently developing two major projects: **PhishingNet**, an awareness platform for cyber threats, and **Eurydice**, an organization app designed for individuals with concentration challenges.
+I am currently developing my company, Bourbon'Elle! And a few project ideas I want to explore as well.
 
 ---
 
@@ -57,6 +57,6 @@ I am currently developing two major projects: **PhishingNet**, an awareness plat
 ### Contact & Networking
 
 * LinkedIn: [Linkedin](https://linkedin.com/in/capucine-lorenzi-b43b71232/)
-* Projects: Bourbon'elle (website in development)
+* Projects: Bourbon'elle bourbonelle.fr(website in development)
 * Email: capucine.lorenzi@epitech.eu | lorenzi.capucine@gmail.com
-* Bourbon'Elle Email: bourbonelle03@gmail.com
+* Bourbon'Elle Email: contatc@bourbonelle.fr
